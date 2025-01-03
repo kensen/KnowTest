@@ -1,0 +1,11 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/KnowTest.Web/bin/Debug/net8.0
+/KnowTest.Web/obj
+/KnowTest.WinForm/bin/Debug
+/KnowTest.WinForm/obj
+/KnowTest/obj
+/KnowTest/bin/Debug/net8.0
+/.vs
