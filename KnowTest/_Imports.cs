@@ -1,0 +1,17 @@
+﻿global using System.ComponentModel;
+global using System.ComponentModel.DataAnnotations;
+global using System.Security.Claims;
+global using Known;
+global using Known.AntBlazor;
+global using Known.Blazor;
+global using Known.Components;
+global using Known.Extensions;
+global using Known.Services;
+global using Known.WorkFlows;
+global using KnowTest.Entities;
+global using KnowTest.Models;
+global using KnowTest.Services;
+global using Microsoft.AspNetCore.Components;
+global using Microsoft.AspNetCore.Components.Authorization;
+global using Microsoft.AspNetCore.Components.Rendering;
+global using Microsoft.Extensions.DependencyInjection;

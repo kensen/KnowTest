@@ -1,0 +1,18 @@
+﻿<KContext Value="Context">
+    <Router AppAssembly="typeof(AppConfig).Assembly" AdditionalAssemblies="Config.Assemblies">
+        <Found Context="routeData">
+            <KRouteData Value="routeData">
+                <RouteView RouteData="routeData" DefaultLayout="typeof(AntLayout)" />
+            </KRouteData>
+        </Found>
+        <NotFound>
+            <Result Status="404" />
+        </NotFound>
+    </Router>
+    <AntContainer />
+    <AntReconnector />
+</KContext>
+
+@code {
+    [Parameter] public UIContext Context { get; set; }
+}
