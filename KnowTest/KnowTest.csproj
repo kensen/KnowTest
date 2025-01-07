@@ -23,4 +23,8 @@
         <EmbeddedResource Include="Resources\Locales\zh-TW.txt" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Pages\TestModel\" />
+    </ItemGroup>
+
 </Project>
