@@ -3,6 +3,8 @@
   "Menu.BaApplyList": "Apply List",
   "Menu.BaVerifyList": "Verify List",
   "Menu.BaQueryList": "Query List",
+  "Menu.TestModel": "TestModel",
+  "Menu.BadCode": "BadCode",
 
   "BizApply": "BizApply",
   "BizVerify": "BizVerify",
@@ -11,4 +13,6 @@
   "BizTitle": "BizTitle",
   "BizContent": "Content",
   "BizFile": "File"
+
+ 
 }
