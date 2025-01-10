@@ -21,6 +21,7 @@ class ApplyService(Context context) : ServiceBase(context), IApplyService
             ApplyBy = CurrentUser.Name,
             ApplyTime = DateTime.Now
         };
+
     }
 
     //删除业务申请
