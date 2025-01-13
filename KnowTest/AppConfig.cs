@@ -21,7 +21,7 @@ public static class AppConfig
     /// <summary>
     /// 取得系统名称。
     /// </summary>
-    public static string AppName => "KnowTest管理系统";
+    public static string AppName => "KnowTest管理系统（测试）";
 
     /// <summary>
     /// 添加系统配置模块。
